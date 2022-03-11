@@ -1,0 +1,4 @@
+local ui = messagebox("finish loading?.","paidloader", 4)
+
+if ui == 6 then loadstring(game:HttpGet("https://raw.githubusercontent.com/githubbeasy/StryxenHubArsenal/main/strxenarsenal"))()
+    end
